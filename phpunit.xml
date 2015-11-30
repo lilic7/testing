@@ -27,7 +27,8 @@ be executed.
         <testsuite>
             <!--<directory>tests</directory>-->
             <!--<directory>tests\Singleton</directory>-->
-            <directory>tests\FactoryMethod</directory>
+            <!--<directory>tests\FactoryMethod</directory>-->
+            <directory>tests\AbstractFactory</directory>
         </testsuite>
     </testsuites>
 </phpunit>
